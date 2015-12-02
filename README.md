@@ -1,7 +1,8 @@
-This script creates a kml file from csv that is generated from the slocum glider sbd/tbd files and contains at least date, latitude and longitude.
-Many parameters including line/symbol color for kml can be configured through glider.ini
+This script creates a kml file from a csv file that is generated from the slocum glider sbd/tbd files and contains date, latitude and longitude.
+Many parameters including line/symbol color for KML can be configured using glider.ini
 
-This is a part of online materials for [Ocean Solutions Earth Solutions](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=285&moduleID=0).
+This is a part of digital book resources: [Ocean Solutions Earth Solutions](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=285&moduleID=0).
+
 
 This script works on python2.7.
 For Python3, comment out the following line
